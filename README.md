@@ -6,7 +6,7 @@ I spent the last decade building things that protect: industrial-symbiosis netwo
 
 > **What does defensive infrastructure look like when the things being defended — and the things doing the attacking — are agents?**
 
-I work in [Vitalik Buterin's d/acc framework](https://vitalik.eth.limo/general/2023/11/27/techno_optimism.html) — differentially accelerate the technologies that are defensive, decentralized, and accessible. The two pinned repositories below are early-stage, exploratory, and meant to be used as thinking tools more than as products. They will get more polished over time.
+The two pinned repositories below are early-stage, exploratory, and meant to be used as thinking tools more than as products. They will get more polished over time.
 
 ### What I'm working on
 
@@ -29,11 +29,6 @@ I also keep a running research thread called *How to Co-Exist With Hallucination
 - 💼 [LinkedIn](https://www.linkedin.com/in/yufeng-xu-9856a716/) — full work history
 - 🐦 [@infinitegardenX](https://x.com/infinitegardenX) — Eskil.eth, Web3 + AI thinking
 - 📧 eskilca2024 [at] gmail [dot] com
-- 🗺️ Tokyo, Japan — relocating to San Francisco 2026
-
-### Why "Eskil"?
-
-A name I took on in tribute to the late Eskil Lundberg, Sweden's first Consul General in Shanghai and the friend who introduced me to my first job in environmental cooperation. The story is in [my Anthropic application materials](https://github.com/eskilxu/Expound) if curiosity strikes.
 
 ---
 
