@@ -22,7 +22,7 @@ I also keep a running research thread called *How to Co-Exist With Hallucination
 - **2011–2014** Deputy Director, TEDA Eco Center, Tianjin — led the China side of the US-China Eco-Partnership under the S&ED framework.
 - **2010–2011** Project Officer, China Environmental Technology Centre, Embassy of Sweden.
 
-15 years of zero-to-scale across physical, edge, and cryptographic substrates. Fifth substrate is agentic. That's what these repositories are for.
+15 years of zero-to-scale across physical, edge, and cryptographic substrates. The next substrate is agentic. That's what these repositories are for.
 
 ### Connect
 
