@@ -11,12 +11,13 @@ The two pinned repositories below are early-stage, exploratory, and meant to be 
 ### What I'm working on
 
 - 🧠 **[agentic-mindmap](https://github.com/eskilxu/agentic-mindmap)** — Cognitive-map exploration of long-form research using Claude. A small tool to fight the fluency-is-not-truth failure mode when you're reading 50+ page papers with an LLM.
-- 📚 **[Expound](https://github.com/eskilxu/Expound)** — Anthropic + agentic AI education materials for non-technical users. The d/acc "accessibility" pillar, in practice.
+- 📚 **[Expound](https://github.com/eskilxu/Expound)** — Engineering & open-source arm of [Expound](https://expoundlabs.io) (Hong Kong, 2026). Hallucination Hedging frameworks, gate-based QA, and Skill/Agent design patterns grounded in the [FLCA](https://github.com/EskilXu/FLCA) cognitive architecture.
 
 I also keep a running research thread called *How to Co-Exist With Hallucination* — short essays + notes on the shared structural failure mode of human and machine cognition. Most of it lives in private notes today; I'll publish whatever survives self-criticism.
 
 ### Background — short version
 
+- **2026—** Founder, [Expound](https://expoundlabs.io) — Hong Kong-incorporated AI consultancy + agent builder + early-stage investor. Four pillars: Boost (AI strategy consulting) · Build (agent development) · Grow (incubation) · Back (proprietary-capital seed investment). Grounded in the FLCA cognitive architecture framework.
 - **2020–2026** Co-founder & Steward, [GoPlus Security](https://gopluslabs.io) — Web3 safety data infrastructure layer. Featured AWS customer case study. Stepped down Feb 2026.
 - **2015–2020** Co-founder & COO, EdgeOn IoT — China's leading 5G EDGE-cloud platform serving Wanda, Vanke, K11, Swire's Taikoo Li, China World Trade Center, HNA, ByteDance.
 - **2011–2014** Deputy Director, TEDA Eco Center, Tianjin — led the China side of the US-China Eco-Partnership under the S&ED framework.
